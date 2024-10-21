@@ -7,12 +7,12 @@
   
 
 ### <div align="center">I'm Tint Htoo Ko, a Full-Stack Developer 👨‍💻 🚀</div>  
+
+- ❓ Ask me about anything related to MERN stack, Laravel, Django, WordPress and related technologies  
   
 
 - 🌱 I’m currently learning React Native 📱 and Vue 💻  
   
-
-- ❓ Ask me about anything related to MERN stack, Laravel, Django, WordPress and related technologies  
   
 
 - ⚡ Fun fact: I like music more than coding 😅  
