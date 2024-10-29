@@ -11,7 +11,7 @@
 - ❓ Ask me about anything related to MERN stack, Laravel, Django, WordPress and related technologies  
   
 
-- 🌱 I’m currently learning React Native 📱 and Vue 💻  
+- 🌱 I’m currently learning Next Js, React Native 📱 and Vue 💻  
   
   
 
