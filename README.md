@@ -8,11 +8,9 @@
 
 # Hi 👋, I'm Tint Htoo Ko (Margin)
 
-### A passionate full stack developer
+### A passionate Full Stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TintHtooKo&label=Profile views&color=0e75b6&style=flat" alt="TintHtooKo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TintHtooKo" alt="TintHtooKo" /></a> </p>
+<p align="left"> <a href="https://tinthtooko.com">My Official Website</a> </p>
 
 - 🔭 I'm currently working on **HR Management System for our company**
 
