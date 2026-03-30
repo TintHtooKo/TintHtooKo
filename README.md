@@ -6,7 +6,7 @@
 </div>  
   
 
-# Hi 👋, I'm Tint Htoo Ko (Margin)
+# Hi 👋, I'm Tint Htoo Ko (Timmy)
 
 ### A passionate Full Stack Developer
 
