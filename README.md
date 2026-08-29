@@ -13,7 +13,7 @@
 <p align="left"> <a href="https://tinthtooko.com">My Official Website</a> </p>
 
 # 💫 About Me:
-🔭 I'm currently working on **Real Estate CRM**<br>🌱 I'm currently learning **Next, React Native and C#**<br>📫 How to reach me **tinthtooko.official18@gmail.com**<br>⚡ Fun fact **I like music more than coding**<br>👨‍💻 All of my projects are available at **[https://tinthtooko.com](https://tinthtooko.com)**
+🔭 I'm currently working on **Real Estate CRM**<br>🌱 I'm currently learning **Java Spring Boot **<br>📫 How to reach me **tinthtooko.official18@gmail.com**<br>⚡ Fun fact **I like music more than coding**<br>👨‍💻 All of my projects are available at **[https://tinthtooko.com](https://tinthtooko.com)**
 
 
 ## 🌐 Socials:
